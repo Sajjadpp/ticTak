@@ -1,6 +1,11 @@
 .btn{
     display: none;
     margin-bottom: 30px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    font-family: "poppins";
+    cursor: pointer;
 }
 .container{
 
